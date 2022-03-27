@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+body {
+	padding: 0px;
+	border: 0px;
+	margin: 0px;
+}
+
+header {
+	background-image: url("images/turbines.jpg");
+	background-repeat: cover;
+  	background-color: #6BE99D;
+}
+
+.logo {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+body {
+	background-color: #6BE99D;
+}
+
+h1 {
+	text-align: center;
+	color: darkgreen;
+	border: 10px solid darkgreen;
+}
+
+h2 {
+	color: darkgreen;
+}
+
+p {
+	color: darkgreen;
+}
+
+li {
+	color: darkgreen;
+}
+
+.panels {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	border: 5px solid green;
+}
+ 
+input {
+	width: 100%;
+	margin-bottom: 10px;
+	float: left;
+	clear: both;
+}
+
+.box {
+	background-color: darkgreen;
+}
+
+.boxt {
+	text-align: center;
+	color: white;
+}
+
+.boxp {
+	color: white;
+}
+
+.noclear {
+	width: auto;
+	margin-right: 10px;
+	clear: none;
+}
